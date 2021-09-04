@@ -1,12 +1,12 @@
 body{
-    background: url(images/pic.jpg);
+    background: url(images/kasmirHill.jpg);
     overflow: hidden;
 }
-.display-container{
+/* .display-container{
     background-color: hsla(120, 62%, 52%, 0.349);
     border: 2px solid lightcoral;
     border-radius: 5px;
     text-align: center;
     color: lightyellow;
     margin-top: 5px;
-}
+} */
